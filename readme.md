@@ -25,7 +25,7 @@ For that use the following code snippet (each word should begin with a new line)
         public static void main(String[] args) {
         //write your code here
         System.out.println( "java  \nis  \nsmth");
-    }
+        }
     }
 
 #### 3) Print sentence.
